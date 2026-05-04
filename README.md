@@ -12,4 +12,4 @@ This project analyzes loan approval trends using Excel and Power BI. It includes
 - Income level also impacts loan approval decisions
 
 ## Dashboard Preview
-![Dashboard](Screenshot 2026-05-04 121152.png)
+![Dashboard](Screenshot.png)
